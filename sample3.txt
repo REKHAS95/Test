@@ -1,1 +1,2 @@
 this is sample3 file
+this is stash lecture in sample3 file
