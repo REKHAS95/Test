@@ -1,2 +1,3 @@
 this is sample 2 file
 git revert 1
+doing changes in sample 1 file
